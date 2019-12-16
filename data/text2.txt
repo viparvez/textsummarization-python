@@ -1,0 +1,49 @@
+Introduction: The pharmaceutical industry in Bangladesh is one of the most developed technology sectors within Bangladesh. Manufacturers produce insulin, hormones, and cancer drugs. Bangladesh is able to meet 97% of the needs with local production and only 3% is being imported from various countries. However, despite being almost self-sufficient, Bangladesh is importing 80% of Active Pharmaceutical Ingredients (APIs) and other raw material used for production of the finished drugs. The industry also exports medicines to global markets, including Europe. Pharmaceutical companies are expanding their business with the aim to expand the export market.
+The pharmaceutical market in Bangladesh is almost self-sufficient in meeting the needs of the nation. 250 companies are now operating in the country, producing medicines of about 5,600 brands in different dosage forms
+Regulation of pharmaceutical industries in Bangladesh :
+Two organizations regulate drugs and pharmacies in Bangladesh.
+The Directorate General of Drug Administration (DGDA) is the national drug regulatory
+authority which is under the Ministry of Health and Family Welfare. DGDA regulates all
+activities related to import and export of raw materials, packaging materials, production, sale,
+pricing, licensing, registration of all kinds of medicine including those of Ayurveda, Unani,
+herbal and homeopathic systems.
+The Pharmacy Council of Bangladesh(PCB) was established under the Pharmacy Ordinance Act
+in 1976. to control the pharmacy practice in Bangladesh. The Bangladesh Pharmaceutical
+Society is affiliated with the International Pharmaceutical Federation and Commonwealth
+Pharmaceutical Association. The National Drug Policy (2005) states that the World Health
+Organization’s current Good Manufacturing Practices (GMP) should be strictly followed and
+that manufacturing units will be regularly inspected by the DDA. Other key regulation features
+are restrictions on imported drugs (where these are produced by four or more local firms), a ban
+on local production of around 1,700 drugs that are considered non-essential or harmful and strict
+price controls on some 117 principal medicines. [1]
+Regulation of pharmaceutical sectors in European Union :
+The European Medicines Agency (EMA) is an agency of the European Union (EU) in charge of the evaluation and supervision of medicinal products. Prior to 2004, it was known as the European Agency for the Evaluation of Medicinal Products or European Medicines Evaluation Agency (EMEA)
+The European medicines regulatory system is based on a network of around 50 regulatory
+authorities from the 31 EEA countries (28 EU Member States plus Iceland, Liechtenstein and
+Norway), the European Commission and EMA. This network is what makes the EU regulatory
+system unique. The network is supported by a pool of thousands of experts drawn from across Europe, allowing it to source the best possible scientific expertise for the regulation of medicines
+in the EU and to provide scientific advice of the highest quality. EMA and the Member States cooperate and share expertise in the assessment of new medicines and of new safety information.
+They also rely on each other for exchange of information in the regulation of medicine, for
+example regarding the reporting of side effects of medicines, the oversight of clinical trials and
+the conduct of inspections of medicines’ manufacturers and compliance with good clinical practice (GCP), good manufacturing practice (GMP), good distribution practice (GDP), and good
+pharmacovigilance practice (GVP). This works because EU legislation requires that each
+Member State operates to the same rules and requirements regarding the authorization and
+monitoring of medicines. IT systems which connect all parties in the network facilitate the
+exchange of information on aspects such as safety monitoring of medicines, authorization and
+supervision of clinical trials or compliance with good manufacturing and distribution practices
+The European system offers different routes for such an authorisation. This booklet explains how the European regulatory system for medicines operates. It describes how medicines
+are authorised and monitored in the European Union (EU) and how the European medicines
+regulatory network—a partnership between the European Commission, the medicines regulatory
+authorities in EU Member States and the European Economic Area (EEA), and the European
+Medicines Agency (EMA)—works to ensure that patients in the EU have access to high-quality,
+effective and safe medicines. The centralised procedure allows the marketing of a medicine on
+the basis of a single EU-wide assessment and marketing authorisation which is valid throughout
+the EU. Pharmaceutical companies submit a single authorisation application to EMA. The
+Agency’s Committee for Medicinal Products for Human Use (CHMP) or Committee for
+Medicinal Products for Veterinary Use (CVMP) then carries out a scientific assessment of the
+application and gives a recommendation to the European Commission on whether or not to grant a marketing authorisation. Once granted by the European Commission, the centralised marketing
+authorisation is valid in all EU Member States.
+The majority of medicines authorised in the EU do not fall within the scope of the centralised procedure but are authorised by national competent authorities (NCAs) in the Member States. When a company wants to authorise a medicine in several Member States, it can use one of the following procedures: • the decentralised procedure where companies can apply for the simultaneous authorisation of a medicine in more than one EU Member State if it has not yet been authorised in any EU country and does not fall within the scope of the centralised procedure; • the mutual-recognition procedure where companies that have a medicine authorised in one EU Member States can apply for this authorisation to be recognised in other EU countries.
+This process allows Member States to rely on each other’s scientific assessments. Rules and requirements applicable to pharmaceuticals in the EU are the same, irrespective of the authorisation route for a medicine. Transparency about how the system works and how it reaches its decisions is an important feature of the EU regulatory system for medicines. A European Public Assessment Report, or EPAR, is published for every human or veterinary medicine that has been granted or refused a marketing authorisation following an assessment by EMA.
+EMA scientific committees The EMA has seven scientific committees that carry out its
+scientific assessments:Committee for Medicinal Products for Human Use (CHMP) Pharmacovigilance Risk Assessment Committee (PRAC) Committee for Medicinal Products for Veterinary Use (CMVP) Committee for Orphan Medicinal Products (COMP) Committee on Herbal Medicinal Products (HMPC) Committee for Advanced Therapies (CAT) Paediatric Committee (PDCO) [2]

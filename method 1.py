@@ -84,7 +84,7 @@ def generate_summary(file_name, top_n=5):
       summarize_text.append(" ".join(ranked_sentence[i][1]))
 
     # Step 5 - Offcourse, output the summarize texr
-    print("Summarize Text: \n", ". ".join(summarize_text))
+    return("Summarize Text: \n", ". ".join(summarize_text))
 
 # let's begin
-generate_summary( "data/data2.txt", 2)
+summary=generate_summary( "data/text2.txt", 2)

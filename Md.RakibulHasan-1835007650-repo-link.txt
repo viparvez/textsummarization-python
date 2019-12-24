@@ -1,0 +1,3 @@
+my personal lavel wor on abstarct text summerization is in my personal repo. The link in in bellow
+
+https://github.com/hasanEmon/text-summarization
